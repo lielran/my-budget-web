@@ -1,0 +1,3 @@
+{
+  "cmd": "curl -o- -L https://yarnpkg.com/install.sh | bash && yarn && yarn test"
+}
