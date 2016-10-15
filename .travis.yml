@@ -12,6 +12,6 @@ node_js:
 before_install:
   - time npm i -g yarn --cache-min 999999999
 install:
-  - time yarn
+  - yarn
 script:
-  - time yarn test
+  - yarn test
