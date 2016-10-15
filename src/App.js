@@ -9,7 +9,6 @@ const GITHUB_URL = "https://github.com/lielran"
 const TWITTER_URL = "https://twitter.com/lielran"
 
 
-
 class App extends Component {
   render() {
     return (
